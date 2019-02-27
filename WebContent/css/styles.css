@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+#container {
+	width: 800px;	
+	margin: auto;
+	font-family: Comic Sans MS;
+	margin-top: 25px;
+}
+
+#message-container {
+	width: 50%;
+	float: left;
+}
+
+#message-box {
+	border: 1px solid black;
+	height: 300px;
+	overflow: auto;
+}
+
+#message-entrance input[type="text"] {
+	width: 80%;
+	height: 20px;
+	margin-left: 3px;
+}
+
+#message-entrance button {
+	width: 16%;
+	height: 26px;
+}
+
+.user-message {
+	float: right;
+	background-color: #a6c0ea;
+	margin: 2px;	
+}
+
+.bot-message, .user-message {
+	width: 30%;
+}
+
+.bot-message {
+	background-color: #f3c8f7;
+}
+
+#user-info {
+	float: left;
+	width: 50%;
+}
+
+#order-form, #user-info h3 {
+	margin-left: 50px;
+}
+

@@ -1,0 +1,5 @@
+com\chatbot\training\watson\SessionFactory.class
+com\chatbot\training\watson\ConversationService.class
+com\chatbot\training\ChatbotApplication.class
+com\chatbot\training\resource\BotResponseResource.class
+com\chatbot\training\watson\IAMAuthentication.class
