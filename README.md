@@ -1,4 +1,4 @@
-# simple-chatbot
+# Order Pizza Chatbot
 
 Technology: 
 - JAVA J2EE
